@@ -20,7 +20,7 @@ I'm passionate about data science, innovative AI technologies, and software deve
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVmOGowdjByZDJxNG1lajU3dHZ1aDQ4amk5dWxwaXp3czRhc2c5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" align="center" height="400" width="400" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVmOGowdjByZDJxNG1lajU3dHZ1aDQ4amk5dWxwaXp3czRhc2c5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -84,4 +84,3 @@ I'm passionate about data science, innovative AI technologies, and software deve
 
 
 <br />
-
